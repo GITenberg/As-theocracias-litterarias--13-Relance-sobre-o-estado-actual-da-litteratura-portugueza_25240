@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Teófilo_Braga
     - http://pt.wikipedia.org/wiki/Teófilo_Braga
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25240#As-theocracias-litterarias--13-Relance-sobre-o-estado-actual-da-litteratura-portugueza
 gutenberg_bookshelf: PT Política e Sociedade
 gutenberg_issued: '2008-04-29'
 gutenberg_type: Text
